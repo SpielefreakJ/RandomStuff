@@ -1,8 +1,10 @@
 # Manual Foge install
-1. Download the file of your desired version
-2. Run the file
-3. Restart the minecraft launcher
-4. Create a new Installation
-5. Select the version 1.8.9-forge1.8.9-11.15.1.2318-1.8.9 (at the bottom of the version list)
-6. Start playing
+1. Open the file of your version you want 
+	Links: [1.8.9](https://raw.githubusercontent.com/SpielefreakJ/RandomStuff/main/manual-forge-installations/Install_forge_1.8.9.cmd)
+2. Right-click the page and click Save as (or press Ctrl+S)
+3. Run the file
+4. Restart the minecraft launcher
+5. Create a new Installation
+6. Select the version 1.8.9-forge1.8.9-11.15.1.2318-1.8.9 (at the bottom of the version list)
+7. Start playing
 
