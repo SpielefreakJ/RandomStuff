@@ -1,5 +1,5 @@
 # Manual Foge install
-1. Open the file of your version you want 
+1. Open the file of your version you want \n
 	Links: [1.8.9](https://raw.githubusercontent.com/SpielefreakJ/RandomStuff/main/manual-forge-installations/Install_forge_1.8.9.cmd)
 2. Right-click the page and click Save as (or press Ctrl+S)
 3. Run the file
