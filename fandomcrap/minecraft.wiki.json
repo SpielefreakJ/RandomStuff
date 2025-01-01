@@ -10,7 +10,7 @@
             "includePattern": "https://minecraft.fandom.com/wiki/*",
             "excludePattern": "",
             "patternDesc": "Redirects a MC FD page to MC.w page",
-            "redirectUrl": "https://minecraft.wiki/w/@$1",
+            "redirectUrl": "https://minecraft.wiki/w/$1",
             "patternType": "W",
             "processMatches": "noProcessing",
             "disabled": false,
