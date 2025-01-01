@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2025-01-01T14:45:42.439Z",
+    "redirects": [
+        {
+            "description": "Minecraft Fandom -> Minecraft.wiki",
+            "exampleUrl": "https://minecraft.fandom.com/wiki/Enchanting",
+            "exampleResult": "https://minecraft.wiki/w/Enchanting",
+            "error": null,
+            "includePattern": "https://minecraft.fandom.com/wiki/*",
+            "excludePattern": "",
+            "patternDesc": "Redirects a MC FD page to MC.w page",
+            "redirectUrl": "https://minecraft.wiki/w/@$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
